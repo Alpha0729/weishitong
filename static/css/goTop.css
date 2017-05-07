@@ -1,0 +1,18 @@
+.goTop {
+  position: fixed;
+  top: 80%;
+  right: 10px;
+  z-index: 9990;
+  display: none;
+}
+.goTop .goTop-con .gt-btn {
+  display: block;
+  width: 56px;
+  height: 56px;
+  background: url("../images/m-goTop.png") no-repeat;
+}
+@media screen and (max-width: 768px) {
+  .goTop {
+    display: block;
+  }
+}

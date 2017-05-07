@@ -1,0 +1,56 @@
+.txtScroll-top {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  height: 24px;
+  line-height: 24px;
+}
+.txtScroll-top h2 {
+  font-size: 18px;
+  color: #1e1e1e;
+  border-right: 1px solid #8f8f8f;
+  padding-right: 10px;
+  float: left;
+}
+.txtScroll-top .hd {
+  overflow: hidden;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px;
+  float: right;
+}
+.txtScroll-top .hd .next {
+  background: url("../img/news-icon-top.png") no-repeat;
+  display: block;
+  width: 15px;
+  height: 8px;
+  float: left;
+}
+.txtScroll-top .hd .prev {
+  background: url("../img/news-icon-bottom.png") no-repeat;
+  display: block;
+  width: 15px;
+  height: 8px;
+  float: left;
+  margin-left: 10px;
+}
+.txtScroll-top .bd {
+  height: 24px;
+  line-height: 24px;
+  overflow: hidden;
+  float: left;
+  margin-left: 20px;
+}
+.txtScroll-top .bd .infoList li {
+  height: 24px;
+  line-height: 24px;
+}
+.txtScroll-top .bd .infoList li a {
+  float: left;
+  color: #1e1e1e;
+}
+.txtScroll-top .bd .infoList li .news-date {
+  float: right;
+  color: #8d8d8d;
+  margin-left: 20px;
+}

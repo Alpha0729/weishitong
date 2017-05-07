@@ -1,0 +1,52 @@
+.page {
+  margin: 40px auto;
+  max-width: 1410px;
+}
+.page .page-list ul {
+  width: 498px;
+  margin: 0 auto;
+}
+.page .page-list ul .l-01 {
+  margin: 0 8px;
+}
+.page .page-list ul .l-01 a {
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  padding: 0 14px;
+  border: 1px solid #b2b2b2;
+}
+.page .page-list ul .l-02 {
+  margin: 0 10px;
+}
+.page .page-list ul .l-02 a {
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  padding: 0 14px;
+  color: #ef7800;
+  border: 1px solid #ef7800;
+}
+.page .page-list ul .l-02:hover a {
+  background: #ef7800;
+  color: #fff;
+}
+.page .page-list ul .on a {
+  background: #ef7800;
+  color: #fff;
+}
+@media screen and (max-width: 768px) {
+  .page .page-list ul {
+    width: 324px;
+    margin: 0 auto;
+  }
+  .page .page-list ul .l-01 {
+    margin: 0 6px;
+  }
+  .page .page-list ul .l-02 {
+    margin: 0 6px;
+  }
+  .page .page-list ul .l-03none {
+    display: none;
+  }
+}

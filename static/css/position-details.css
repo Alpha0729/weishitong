@@ -1,0 +1,116 @@
+.p-deta-con {
+  background: #f7f7f7;
+  position: relative;
+  margin-top: 50px;
+  padding: 0 40px 50px;
+}
+.p-deta-con h4 {
+  background: url("../img/zw-titBg.png") no-repeat;
+  height: 85px;
+  width: 282px;
+  text-align: center;
+  line-height: 85px;
+  position: absolute;
+  top: -9px;
+  left: 8px;
+  font-size: 24px;
+  color: #fff;
+}
+.p-deta-con .zw-fbTime {
+  display: block;
+  height: 70px;
+  line-height: 70px;
+  text-align: right;
+  font-size: 16px;
+  color: #999;
+}
+.p-deta-con .xxjs-txt {
+  height: 80px;
+  line-height: 80px;
+}
+.p-deta-con .xxjs-txt span {
+  display: inline;
+  font-size: 18px;
+}
+.p-deta-con .xxjs-txt .xt01 {
+  color: #fe3425;
+  padding-right: 2%;
+  margin-right: 2%;
+  border-right: 1px solid #ccc;
+}
+.p-deta-con .xxjs-txt .xt02 {
+  color: #666;
+  padding-right: 2%;
+  margin-right: 2%;
+  border-right: 1px solid #ccc;
+}
+.p-deta-con .xxjs-txt .xt03 {
+  color: #666;
+  padding-right: 2%;
+  margin-right: 2%;
+  border-right: 1px solid #ccc;
+}
+.p-deta-con .xxjs-txt .xt04 {
+  color: #666;
+  padding-right: 2%;
+  margin-right: 2%;
+  border-right: 1px solid #ccc;
+}
+.p-deta-con .zz-text {
+  margin-top: 50px;
+}
+.p-deta-con .zz-text h5 {
+  font-size: 18px;
+  color: #333;
+  padding-left: 16px;
+  border-left: 2px solid #ee7700;
+}
+.p-deta-con .zz-text ul {
+  margin-top: 12px;
+}
+.p-deta-con .zz-text ul li {
+  font-size: 14px;
+  color: #4c4c4c;
+  line-height: 30px;
+}
+.p-deta-con .yp-btn {
+  display: block;
+  background: url("../img/yp-btn.png") no-repeat;
+  width: 118px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  margin-top: 50px;
+}
+@media screen and (max-width: 768px) {
+  .p-deta-con {
+    padding: 40px 10px 50px;
+  }
+  .p-deta-con .yp-btn {
+    margin: 50px auto 0;
+  }
+  .p-deta-con .zz-text {
+    margin-top: 26px;
+  }
+  .p-deta-con .zw-fbTime {
+    font-size: 14px;
+    text-align: left;
+  }
+  .p-deta-con .xxjs-txt {
+    height: auto;
+    line-height: normal;
+  }
+  .p-deta-con .xxjs-txt span {
+    font-size: 14px;
+  }
+  .p-deta-con h4 {
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 18px;
+    left: 50%;
+    margin-left: -100px;
+  }
+}

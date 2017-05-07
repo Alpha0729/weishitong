@@ -1,0 +1,299 @@
+.tabList {
+  margin-top: 4px;
+}
+.tabList .tabList-tit {
+  background: #f7f7f7;
+}
+.tabList .tabList-tit ul {
+  max-width: 1410px;
+  margin: 0 auto;
+}
+.tabList .tabList-tit ul li {
+  height: 54px;
+  line-height: 54px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 18px;
+  color: #666;
+}
+.tabList .tabList-tit ul li a {
+  display: block;
+}
+.tabList .tabList-tit ul .li-w01 {
+  width: 50%;
+}
+.tabList .tabList-tit ul .li-w02 {
+  width: 25%;
+}
+.tabList .tabList-tit ul .li-w03 {
+  width: 14.28%;
+}
+.tabList .tabList-tit ul .li-w04 {
+  width: 33.33%;
+}
+.tabList .tabList-tit ul .li-w05 {
+  width: 20%;
+}
+.tabList .tabList-tit ul li:hover {
+  background: #fff;
+  color: #ef7700;
+}
+.tabList .tabList-tit ul .on {
+  background: #fff;
+  color: #ef7700;
+}
+.tabList .tabList-con .none {
+  display: none;
+}
+.tabList .tabList-con .con01 .lm-tit {
+  font-size: 30px;
+  color: #000;
+  text-align: center;
+  margin-top: 80px;
+}
+.tabList .tabList-con .con01 .tit-bg03 {
+  background: url("../img/tit-bg03.png") no-repeat;
+  background-position: left center;
+  height: 45px;
+  line-height: 45px;
+  width: 320px;
+  text-indent: 40px;
+  margin: 80px auto 0;
+}
+.tabList .tabList-con .con01 .listCon {
+  margin: 40px auto 0;
+  max-width: 1410px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #e5e5e5;
+}
+.tabList .tabList-con .con01 .listCon .list-con-time {
+  width: 78px;
+  margin-right: 3%;
+}
+.tabList .tabList-con .con01 .listCon .list-con-time span {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.tabList .tabList-con .con01 .listCon .list-con-time .years {
+  background: #c6c6c6;
+  color: #fff;
+  height: 28px;
+  line-height: 28px;
+}
+.tabList .tabList-con .con01 .listCon .list-con-time .day {
+  padding: 12px 0;
+  background: #f18d2b;
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+}
+.tabList .tabList-con .con01 .listCon .list-con-l {
+  margin-right: 2%;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r02 {
+  width: 65%;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r02 h4 a {
+  font-size: 24px;
+  color: #000;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r02 p a {
+  color: #4d4d4d;
+  line-height: 24px;
+  display: inline-block;
+  margin-top: 12px;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r02 .ckMore {
+  display: inline-block;
+  color: #ef7700;
+  margin-top: 24px;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r {
+  width: 74%;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r h4 a {
+  font-size: 24px;
+  color: #000;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r p a {
+  color: #4d4d4d;
+  line-height: 24px;
+  display: inline-block;
+  margin-top: 12px;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r .ckMore {
+  display: inline-block;
+  color: #ef7700;
+  margin-top: 24px;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r .yulan {
+  display: inline-block;
+  font-size: 14px;
+  color: #ee7800;
+  padding-right: 30px;
+  background: url("../img/yulan.png") no-repeat;
+  background-position: right center;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+.tabList .tabList-con .con01 .listCon .list-con-r .down-load {
+  display: inline-block;
+  font-size: 14px;
+  color: #ee7800;
+  padding-right: 30px;
+  margin-top: 30px;
+  background: url("../img/download.png") no-repeat;
+  background-position: right center;
+}
+.tabList .details03 .details03-con {
+  max-width: 1410px;
+  margin: 80px auto 0;
+}
+.tabList .details03 .details03-con h3 {
+  font-size: 30px;
+  color: #333;
+  font-weight: bold;
+  text-align: center;
+}
+.tabList .details03 .details03-con .tit02 {
+  font-size: 24px;
+  color: #4d4d4d;
+  text-align: center;
+  margin-top: 12px;
+}
+.tabList .details03 .details03-con .fb-time {
+  text-align: center;
+  margin-top: 36px;
+  margin-bottom: 30px;
+}
+.tabList .details03 .details03-con .fb-time span {
+  font-size: 12px;
+  color: #999;
+  display: inline-block;
+  margin: 0 8px;
+}
+.tabList .details03 .details03-con .deta-txt {
+  font-size: 14px;
+  line-height: 24px;
+  color: #4e4e4e;
+  margin-bottom: 20px;
+}
+.tabList .details03 .details03-con .deta-img {
+  text-align: center;
+  margin: 40px 0 40px 0;
+}
+@media screen and (max-width: 1410px) {
+  .tabList .details03 .details03-con {
+    padding: 0 10px;
+  }
+  .tabList .tabList-con {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .tabList .tabList-con .con01 .lm-tit {
+    margin-top: 50px;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-r {
+    width: 62%;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-r02 {
+    width: 53%;
+  }
+  .tabList .tabList-tit03 ul {
+    max-width: 1200px;
+  }
+  .tabList .tabList-tit ul {
+    max-width: 1200px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .tabList .details03 .details03-con .deta-img img {
+    width: 80%;
+  }
+  .tabList .tabList-con .con01 .lm-tit {
+    margin-top: 30px;
+    font-size: 24px;
+  }
+  .tabList .tabList-con .con01 .listCon {
+    position: relative;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-time {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-l {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-l img {
+    width: 60%;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-r {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-r h4 {
+    text-align: center;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-r02 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-r02 h4 {
+    text-align: center;
+  }
+  .tabList .tabList-tit03 ul {
+    padding: 0 10px;
+    max-width: 1200px;
+  }
+  .tabList .tabList-tit03 ul li {
+    font-size: 16px;
+  }
+  .tabList .tabList-tit ul {
+    padding: 0 10px;
+    max-width: 1200px;
+  }
+  .tabList .tabList-tit ul li {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .tabList .tabList-tit {
+    padding-bottom: 20px;
+  }
+  .tabList .tabList-tit ul {
+    padding: 0;
+  }
+  .tabList .tabList-tit ul li {
+    padding-right: 10px;
+    float: none;
+    width: 100% !important;
+    text-align: left;
+    height: 40px;
+    line-height: 40px;
+  }
+  .tabList .tabList-tit ul li a {
+    display: block;
+    padding: 0 10px;
+    width: 92%;
+    background: url("../images/m-slide02.png") no-repeat;
+    background-position: right center;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-time {
+    width: 60px;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-time .day {
+    padding: 5px 0;
+  }
+  .tabList .tabList-con .con01 .listCon .list-con-l img {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 480px) {
+  .tabList .details03 .details03-con .deta-img img {
+    width: 100%;
+  }
+}

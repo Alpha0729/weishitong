@@ -1,0 +1,67 @@
+.investor {
+  max-width: 1410px;
+  margin: 0 auto;
+}
+.investor .investor-con .investor-List {
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+.investor .investor-con .investor-List ul .mar-r {
+  margin-right: 3.2%;
+}
+.investor .investor-con .investor-List ul li {
+  width: 25%;
+  border: 1px solid #e6e6e6;
+  padding: 40px 3% 70px 3%;
+  text-align: center;
+}
+.investor .investor-con .investor-List ul li a {
+  display: block;
+}
+.investor .investor-con .investor-List ul li a h3 {
+  font-size: 22px;
+  color: #000;
+  margin-top: 40px;
+}
+.investor .investor-con .investor-List ul li a span {
+  display: block;
+  font-size: 14px;
+  color: #4c4c4c;
+  margin-top: 20px;
+}
+@media screen and (max-width: 1410px) {
+  .investor {
+    padding: 0 10px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .investor .investor-con .investor-List ul .mar-r {
+    margin-right: 3%;
+  }
+  .investor .investor-con .investor-List ul li {
+    padding: 20px 3% 40px 3%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .investor .investor-con .investor-List ul .mar-r {
+    margin-right: 0;
+  }
+  .investor .investor-con .investor-List ul li {
+    width: 94%;
+    margin-bottom: 2%;
+    padding: 20px 3% 40px 3%;
+  }
+}
+
+.share-con{
+  width: 100%;
+}
+.share-con .gp-k{
+  width: 50%;
+}
+.share-con .gp-k img{
+  width: 100%;
+}
+.share-con .gp-t{
+  width: 50%;
+}
